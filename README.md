@@ -16,7 +16,7 @@ nodemon does **not** require *any* additional changes to your code or method of 
 Either through cloning with git or by using [npm](http://npmjs.org) (the recommended way):
 
 ```bash
-npm install -g nodemon
+npm install -g @jacobbubu/nodemon
 ```
 
 And nodemon will be installed globally to your system path.
